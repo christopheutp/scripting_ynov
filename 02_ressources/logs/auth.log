@@ -1,0 +1,71 @@
+Jan 15 08:23:01 webserver sshd[12340]: Accepted publickey for admin from 192.168.1.10 port 52341 ssh2
+Jan 15 08:25:12 webserver sshd[12345]: Failed password for root from 185.234.72.15 port 43210 ssh2
+Jan 15 08:25:14 webserver sshd[12346]: Failed password for root from 185.234.72.15 port 43211 ssh2
+Jan 15 08:25:16 webserver sshd[12347]: Failed password for root from 185.234.72.15 port 43212 ssh2
+Jan 15 08:25:18 webserver sshd[12348]: Failed password for admin from 185.234.72.15 port 43213 ssh2
+Jan 15 08:25:20 webserver sshd[12349]: Failed password for admin from 185.234.72.15 port 43214 ssh2
+Jan 15 08:26:01 webserver sshd[12350]: Failed password for invalid user test from 185.234.72.15 port 43215 ssh2
+Jan 15 08:26:03 webserver sshd[12351]: Failed password for invalid user guest from 185.234.72.15 port 43216 ssh2
+Jan 15 08:26:05 webserver sshd[12352]: Failed password for invalid user user from 185.234.72.15 port 43217 ssh2
+Jan 15 08:26:07 webserver sshd[12353]: Failed password for root from 185.234.72.15 port 43218 ssh2
+Jan 15 08:26:09 webserver sshd[12354]: Failed password for root from 185.234.72.15 port 43219 ssh2
+Jan 15 08:26:11 webserver sshd[12355]: Failed password for root from 185.234.72.15 port 43220 ssh2
+Jan 15 08:30:22 webserver sshd[12400]: Accepted password for devuser from 10.0.0.50 port 55123 ssh2
+Jan 15 08:32:45 webserver sudo: devuser : TTY=pts/0 ; PWD=/home/devuser ; USER=root ; COMMAND=/bin/systemctl status nginx
+Jan 15 08:45:33 webserver sshd[12456]: Failed password for root from 91.134.208.77 port 38901 ssh2
+Jan 15 08:45:35 webserver sshd[12457]: Failed password for root from 91.134.208.77 port 38902 ssh2
+Jan 15 08:45:37 webserver sshd[12458]: Failed password for admin from 91.134.208.77 port 38903 ssh2
+Jan 15 08:45:39 webserver sshd[12459]: Failed password for admin from 91.134.208.77 port 38904 ssh2
+Jan 15 08:45:41 webserver sshd[12460]: Failed password for invalid user mysql from 91.134.208.77 port 38905 ssh2
+Jan 15 08:45:43 webserver sshd[12461]: Failed password for invalid user postgres from 91.134.208.77 port 38906 ssh2
+Jan 15 08:45:45 webserver sshd[12462]: Failed password for root from 91.134.208.77 port 38907 ssh2
+Jan 15 08:45:47 webserver sshd[12463]: Failed password for root from 91.134.208.77 port 38908 ssh2
+Jan 15 09:00:00 webserver CRON[12500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 15 09:00:01 webserver CRON[12500]: pam_unix(cron:session): session closed for user root
+Jan 15 09:15:22 webserver sshd[12550]: Accepted publickey for admin from 192.168.1.10 port 52890 ssh2
+Jan 15 09:20:11 webserver sshd[12600]: Failed password for root from 45.227.254.13 port 61234 ssh2
+Jan 15 09:20:13 webserver sshd[12601]: Failed password for root from 45.227.254.13 port 61235 ssh2
+Jan 15 09:20:15 webserver sshd[12602]: Failed password for root from 45.227.254.13 port 61236 ssh2
+Jan 15 09:20:17 webserver sshd[12603]: Failed password for admin from 45.227.254.13 port 61237 ssh2
+Jan 15 09:20:19 webserver sshd[12604]: Failed password for invalid user oracle from 45.227.254.13 port 61238 ssh2
+Jan 15 09:20:21 webserver sshd[12605]: Failed password for invalid user ftpuser from 45.227.254.13 port 61239 ssh2
+Jan 15 09:20:23 webserver sshd[12606]: Failed password for root from 45.227.254.13 port 61240 ssh2
+Jan 15 09:20:25 webserver sshd[12607]: Failed password for root from 45.227.254.13 port 61241 ssh2
+Jan 15 09:20:27 webserver sshd[12608]: Failed password for root from 45.227.254.13 port 61242 ssh2
+Jan 15 09:20:29 webserver sshd[12609]: Failed password for root from 45.227.254.13 port 61243 ssh2
+Jan 15 09:20:31 webserver sshd[12610]: Failed password for admin from 45.227.254.13 port 61244 ssh2
+Jan 15 09:20:33 webserver sshd[12611]: Failed password for admin from 45.227.254.13 port 61245 ssh2
+Jan 15 09:20:35 webserver sshd[12612]: Failed password for invalid user backup from 45.227.254.13 port 61246 ssh2
+Jan 15 09:20:37 webserver sshd[12613]: Failed password for root from 45.227.254.13 port 61247 ssh2
+Jan 15 09:20:39 webserver sshd[12614]: Failed password for root from 45.227.254.13 port 61248 ssh2
+Jan 15 09:25:00 webserver sshd[12650]: Accepted password for webmaster from 192.168.1.25 port 49321 ssh2
+Jan 15 09:30:45 webserver sudo: webmaster : TTY=pts/1 ; PWD=/var/www ; USER=root ; COMMAND=/bin/cat /var/log/nginx/error.log
+Jan 15 10:00:00 webserver CRON[12700]: pam_unix(cron:session): session opened for user www-data by (uid=0)
+Jan 15 10:00:02 webserver CRON[12700]: pam_unix(cron:session): session closed for user www-data
+Jan 15 10:15:33 webserver sshd[12750]: Failed password for root from 185.234.72.15 port 44100 ssh2
+Jan 15 10:15:35 webserver sshd[12751]: Failed password for root from 185.234.72.15 port 44101 ssh2
+Jan 15 10:15:37 webserver sshd[12752]: Failed password for root from 185.234.72.15 port 44102 ssh2
+Jan 15 10:15:39 webserver sshd[12753]: Failed password for admin from 185.234.72.15 port 44103 ssh2
+Jan 15 10:15:41 webserver sshd[12754]: Failed password for invalid user administrator from 185.234.72.15 port 44104 ssh2
+Jan 15 10:15:43 webserver sshd[12755]: Failed password for root from 185.234.72.15 port 44105 ssh2
+Jan 15 10:15:45 webserver sshd[12756]: Failed password for root from 185.234.72.15 port 44106 ssh2
+Jan 15 10:30:00 webserver sshd[12800]: Accepted publickey for admin from 192.168.1.10 port 53201 ssh2
+Jan 15 10:45:22 webserver sshd[12850]: Failed password for root from 103.108.192.45 port 55670 ssh2
+Jan 15 10:45:24 webserver sshd[12851]: Failed password for root from 103.108.192.45 port 55671 ssh2
+Jan 15 10:45:26 webserver sshd[12852]: Failed password for admin from 103.108.192.45 port 55672 ssh2
+Jan 15 10:45:28 webserver sshd[12853]: Failed password for invalid user deploy from 103.108.192.45 port 55673 ssh2
+Jan 15 10:45:30 webserver sshd[12854]: Failed password for root from 103.108.192.45 port 55674 ssh2
+Jan 15 11:00:00 webserver CRON[12900]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 15 11:00:01 webserver CRON[12900]: pam_unix(cron:session): session closed for user root
+Jan 15 11:30:15 webserver sshd[12950]: Accepted password for devuser from 10.0.0.50 port 55890 ssh2
+Jan 15 11:35:22 webserver sudo: devuser : TTY=pts/2 ; PWD=/home/devuser ; USER=root ; COMMAND=/usr/bin/apt update
+Jan 15 11:40:33 webserver sshd[13000]: Failed password for root from 185.234.72.15 port 44500 ssh2
+Jan 15 11:40:35 webserver sshd[13001]: Failed password for root from 185.234.72.15 port 44501 ssh2
+Jan 15 11:40:37 webserver sshd[13002]: Failed password for root from 185.234.72.15 port 44502 ssh2
+Jan 15 11:40:39 webserver sshd[13003]: Failed password for root from 185.234.72.15 port 44503 ssh2
+Jan 15 11:40:41 webserver sshd[13004]: Failed password for admin from 185.234.72.15 port 44504 ssh2
+Jan 15 11:40:43 webserver sshd[13005]: Failed password for admin from 185.234.72.15 port 44505 ssh2
+Jan 15 11:40:45 webserver sshd[13006]: Failed password for invalid user support from 185.234.72.15 port 44506 ssh2
+Jan 15 11:40:47 webserver sshd[13007]: Failed password for root from 185.234.72.15 port 44507 ssh2
+Jan 15 12:00:00 webserver CRON[13050]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 15 12:00:01 webserver CRON[13050]: pam_unix(cron:session): session closed for user root
