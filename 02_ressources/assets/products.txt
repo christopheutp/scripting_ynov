@@ -1,0 +1,10 @@
+101|Laptop|Electronics|899.99|15
+102|Mouse|Electronics|19.90|150
+103|Desk Chair|Furniture|129.50|35
+104|Notebook|Stationery|2.50|500
+105|Water Bottle|Accessories|9.99|80
+106|Monitor|Electronics|199.99|22
+107|Pen|Stationery|1.20|1000
+108|Backpack|Accessories|49.90|60
+109|Keyboard|Electronics|45.00|75
+110|Lamp|Furniture|34.99|40
